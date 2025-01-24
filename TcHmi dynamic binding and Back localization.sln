@@ -7,6 +7,11 @@ Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "hmi", "hmi\hmi.hmiproj", "{
 EndProject
 Project("{B1E792BE-AA5F-4E3C-8C82-674BF9C0715B}") = "support code", "support code\support code.tsproj", "{D2A41963-AA54-457D-9D78-DC4AD26B71A2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2761B790-5BC4-423A-9A21-808B72DA0E18}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|TwinCAT CE7 (ARMV7) = Debug|TwinCAT CE7 (ARMV7)
