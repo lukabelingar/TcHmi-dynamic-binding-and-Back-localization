@@ -1,0 +1,12 @@
+{
+  "$schema": "./../../Packages/Beckhoff.TwinCAT.HMI.Framework.12.762.46/runtimes/native1.12-tchmi/Schema/LocalizationDescription.Schema.json",
+  "locale": "sl",
+  "localizedText": {
+    "L_StartPage": "začetna",
+    "L_Events": "iventi",
+    "L_Localization": "jezik",
+    "L_Theme": "fasada",
+    "L_Settings": "pod havbo",
+    "ButtonBack_Text": "nazaj"
+  }
+}
