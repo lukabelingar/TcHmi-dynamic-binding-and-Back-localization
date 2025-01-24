@@ -8,7 +8,7 @@ Action is triggered by TcHmiCombobox_2 element's onSelectionChanged action on [h
 "Back" button on the navigation menu is only localized to de and en by default. In order to add a new language, following steps must be taken:
 * Edit the "language" node of the json file of the hmi package itself - [Packages/Beckhoff.TwinCAT.HMI.BaseTemplate.12.762.46/runtimes/native1.12-tchmi/TcHmiNavigation/Description.json]() to add the "sl": "Lang/sl.json" key for sl language
 * Add the sl.json file inside Lang subfolder, copying any of existing should do.
-(none of those files are included in this repo, as it is ignored, sample is for version )
+(none of those files are included in this repo, as it is ignored, sample is for tested version.)
 
 
 # Tested
