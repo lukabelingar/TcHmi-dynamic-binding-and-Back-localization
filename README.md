@@ -1,4 +1,4 @@
-# Dynamic (re)binding of variable
+# Dynamic variable (re)binding
 
 CreateBinding built-in function is used to dnyamically rebind control (PLC) variable, to a param_1 property of a custom element, [hmi/UserControls/demo_control.usercontrol]().
 Action is triggered by TcHmiCombobox_2 element's onSelectionChanged action on [hmi/Pages/StartPage.content](). Action simply gets currently selected value from the dropdown and via a case structure binds a new variable using [CreateBinding](https://infosys.beckhoff.com/english.php?content=../content/1033/te2000_tc3_hmi_engineering/5097942027.html&id=)
